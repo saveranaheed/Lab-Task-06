@@ -138,7 +138,53 @@ OUTPUT:
 ![Program
 Output](https://github.com/user-attachments/assets/f01a6d91-dd7b-4e25-b3e7-489345f8dec8)
 
+TASK 04:
+Using For Loop:
 
+```cpp
+#include <iostream>
+using namespace std;
+int main() {
+  for(int i=1;i<=3;i++)
+  {
+    cout<<"weak"<<i<<endl;
+    for(int j=1;j<=7;j++)
+    {
+      cout<<"Day"<<j<<endl;
+    }
+    cout<<endl;
+  }
+}
+```
+OUTPUT:
+
+![Program
+Output](https://github.com/user-attachments/assets/ab5abcb7-eb72-456b-b271-fa1319b299bb)
+
+Using Nested While Loop:
+
+```cpp
+#include <iostream>
+using namespace std;
+int main() {
+  int i=1;
+  while(i<=3)
+  {
+    cout<<"Weak"<<i<<endl;
+    int j=1;
+    while(j<=7)
+    {
+      cout<<"Day"<<j<<endl;
+      j++;
+    }
+    i++;
+  }
+}
+```
+OUTPUT:
+
+![Program
+Output](https://github.com/user-attachments/assets/80c37cdd-b4e8-4d6e-aa19-8bcd2b2d47df)
 
 
 
