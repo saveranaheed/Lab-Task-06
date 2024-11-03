@@ -40,7 +40,7 @@ int main() {
 ```
 OUTPUT:
 ![Program
-Output]![task 6 1 1](https://github.com/user-attachments/assets/4b294613-d90d-447b-9338-cdf3f3af6675)
+Output](https://github.com/user-attachments/assets/4b294613-d90d-447b-9338-cdf3f3af6675)
 
 
 
