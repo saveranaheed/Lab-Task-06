@@ -14,10 +14,10 @@ int main() {
 }
 }
 ```
-
 OUTPUT:
+
 ![Program
-Output]https://github.com/user-attachments/assets/2e072b12-0b11-4454-9303-464fa349e567)
+Output](https://github.com/user-attachments/assets/2e072b12-0b11-4454-9303-464fa349e567)
 
 
 
