@@ -1,4 +1,5 @@
 # Lab-Task-06
+TASK 0:
 Using  nested For Loop:
 ```cpp
 #include <iostream>
@@ -43,7 +44,7 @@ OUTPUT:
 ![Program
 Output](https://github.com/user-attachments/assets/4b294613-d90d-447b-9338-cdf3f3af6675)
 
-Task 2:
+TASK 02:
 Using For loop:
 
 ```cpp
@@ -90,8 +91,52 @@ OUTPUT:
 ![Program
 Output](https://github.com/user-attachments/assets/8dfc5e23-1448-49bb-8d0a-bb5aa4ecdf01)
 
+TASK 03:
+Using For Loop:
 
+```cpp
+#include <iostream>
+using namespace std;
+int main() {
+  for(int i=1;i<=7;i++)
+  {
+    for(int j=1;j<=i;j++)
+    {
+      cout<<i;
+    }
+    cout<<endl;
+  }
+}
+```
+OUTPUT:
 
+![Program
+Output](https://github.com/user-attachments/assets/f840095f-4d73-4dbf-acf1-f94f8e322efd)
+
+Using Nested While Loop:
+
+```cpp
+#include <iostream>
+using namespace std;
+int main() {
+  int i=1;
+  while(i<=7)
+  {
+    int j=1;
+    while(j<=i)
+    {
+      cout<<i;
+      j++;
+    }
+    cout<<endl;
+    i++;
+  }
+}
+```
+OUTPUT:
+
+![Program
+Output](https://github.com/user-attachments/assets/f01a6d91-dd7b-4e25-b3e7-489345f8dec8)
 
 
 
