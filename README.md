@@ -16,7 +16,8 @@ int main() {
 ```cpp
 
 OUTPUT:
-![task 5 (1) final](https://github.com/user-attachments/assets/f44a8621-72f3-41d9-8a9e-58fd75bb9184)
+![Program
+Output](https://github.com/user-attachments/assets/f44a8621-72f3-41d9-8a9e-58fd75bb9184)
 
 
 
