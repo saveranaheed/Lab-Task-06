@@ -17,7 +17,8 @@ int main() {
 
 OUTPUT:
 ![Program
-Output](https://github.com/user-attachments/assets/f44a8621-72f3-41d9-8a9e-58fd75bb9184)
+Output]https://github.com/user-attachments/assets/2e072b12-0b11-4454-9303-464fa349e567)
+
 
 
 
