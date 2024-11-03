@@ -43,5 +43,57 @@ OUTPUT:
 ![Program
 Output](https://github.com/user-attachments/assets/4b294613-d90d-447b-9338-cdf3f3af6675)
 
+Task 2:
+Using For loop:
+
+```cpp
+#include <iostream>
+using namespace std;
+int main() {
+  for(int i=1;i<=5;i++)
+  {
+    for(int j=1;j<=i;j++)
+    {
+      cout<<j;
+    }
+    cout<<endl;
+  }
+}
+```
+OUTPUT:
+
+![Program
+Output](https://github.com/user-attachments/assets/6978b185-8809-489f-bc97-8cc99180f973)
+
+Using Nested While Loop:
+
+```cpp
+#include <iostream>
+using namespace std;
+int main() {
+  int i=1;
+  while(i<=5)
+  {
+    int j=1;
+    while(j<=i)
+    {
+      cout<<j;
+      j++;
+    }
+    cout<<endl;
+    i++;
+  }
+}
+```
+OUTPUT:
+
+![Program
+Output](https://github.com/user-attachments/assets/8dfc5e23-1448-49bb-8d0a-bb5aa4ecdf01)
+
+
+
+
+
+
 
 
